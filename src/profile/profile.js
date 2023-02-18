@@ -12,7 +12,7 @@ export const Profile=(props)=>{
         ) 
     }
 
-export const HandleName =(props)=>{ 
+const HandleName =(props)=>{ 
     return alert(props.fullname)
 
 }
